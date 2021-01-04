@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+#container {
+    width: 40%;
+    padding: 1%;
+    border-radius: 20%;
+    margin: 5vh auto;
+    background-color: dimgrey;
+    border: 1px solid black;
+    align-items: center;
+}
+
